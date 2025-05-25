@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+httpx
+apscheduler
+pydantic-settings
+python-dotenv
+scikit-learn
+numpy
+pandas
